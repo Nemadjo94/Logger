@@ -1,0 +1,10 @@
+C:\Users\Nemanja Djordjevic\source\repos\Act8_2\bin\Debug\WindowsApplication.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\Act8_2\bin\Debug\WindowsApplication.exe
+C:\Users\Nemanja Djordjevic\source\repos\Act8_2\bin\Debug\WindowsApplication.pdb
+C:\Users\Nemanja Djordjevic\source\repos\Act8_2\obj\x86\Debug\Act8_3.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\Act8_2\obj\x86\Debug\Act8_2.frmLogger.resources
+C:\Users\Nemanja Djordjevic\source\repos\Act8_2\obj\x86\Debug\Act8_3.Act8_2.Properties.Resources.resources
+C:\Users\Nemanja Djordjevic\source\repos\Act8_2\obj\x86\Debug\Act8_3.csproj.GenerateResource.cache
+C:\Users\Nemanja Djordjevic\source\repos\Act8_2\obj\x86\Debug\Act8_3.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\Act8_2\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Nemanja Djordjevic\source\repos\Act8_2\obj\x86\Debug\WindowsApplication.pdb
